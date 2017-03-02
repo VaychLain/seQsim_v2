@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="seQSim_v2" Database="">
+  <Project Name="seQSim_v2" Path="seQSim_v2.project" Active="No"/>
+  <Project Name="proj_tfr" Path="proj_tfr/proj_tfr.project" Active="Yes"/>
+  <Project Name="proj_rslt" Path="proj_rslt/proj_rslt.project" Active="No"/>
+  <Project Name="proj_slgen" Path="proj_slgen/proj_slgen.project" Active="No"/>
+  <Project Name="proj_tfr" Path="proj_tfr/proj_tfr.project" Active="Yes"/>
+  <Project Name="proj_rslt" Path="proj_rslt/proj_rslt.project" Active="No"/>
+  <Project Name="proj_TFRcache" Path="proj_TFRcache/proj_TFRcache.project" Active="No"/>
+  <Project Name="proj_slgen" Path="proj_slgen/proj_slgen.project" Active="No"/>
+  <Project Name="proj_tfr" Path="proj_tfr/proj_tfr.project" Active="Yes"/>
+  <Project Name="proj_rslt" Path="proj_rslt/proj_rslt.project" Active="No"/>
+  <Project Name="proj_TFRcache" Path="proj_TFRcache/proj_TFRcache.project" Active="No"/>
+  <Project Name="proj_rslt" Path="proj_rslt/proj_rslt.project" Active="No"/>
+  <Project Name="proj_TFRcache" Path="proj_TFRcache/proj_TFRcache.project" Active="No"/>
+  <Project Name="proj_tfr" Path="proj_tfr/proj_tfr.project" Active="Yes"/>
+  <Project Name="proj_rslt" Path="proj_rslt/proj_rslt.project" Active="No"/>
+  <Project Name="proj_slgen" Path="proj_slgen/proj_slgen.project" Active="No"/>
+  <Project Name="proj_tfr" Path="proj_tfr/proj_tfr.project" Active="Yes"/>
+  <Project Name="proj_rslt" Path="proj_rslt/proj_rslt.project" Active="No"/>
+  <Project Name="proj_TFRcache" Path="proj_TFRcache/proj_TFRcache.project" Active="No"/>
+  <Project Name="proj_rslt" Path="proj_rslt/proj_rslt.project" Active="No"/>
+  <Project Name="proj_TFRcache" Path="proj_TFRcache/proj_TFRcache.project" Active="No"/>
+  <Project Name="proj_tfr" Path="proj_tfr/proj_tfr.project" Active="Yes"/>
+  <Project Name="proj_rslt" Path="proj_rslt/proj_rslt.project" Active="No"/>
+  <Project Name="proj_slgen" Path="proj_slgen/proj_slgen.project" Active="No"/>
+  <Project Name="proj_tfr" Path="proj_tfr/proj_tfr.project" Active="Yes"/>
+  <Project Name="proj_rslt" Path="proj_rslt/proj_rslt.project" Active="No"/>
+  <Project Name="proj_TFRcache" Path="proj_TFRcache/proj_TFRcache.project" Active="No"/>
+  <Project Name="proj_slgen" Path="proj_slgen/proj_slgen.project" Active="No"/>
+  <Project Name="proj_tfr" Path="proj_tfr/proj_tfr.project" Active="Yes"/>
+  <Project Name="proj_rslt" Path="proj_rslt/proj_rslt.project" Active="No"/>
+  <Project Name="proj_TFRcache" Path="proj_TFRcache/proj_TFRcache.project" Active="No"/>
+  <Project Name="proj_rslt" Path="proj_rslt/proj_rslt.project" Active="No"/>
+  <Project Name="proj_TFRcache" Path="proj_TFRcache/proj_TFRcache.project" Active="No"/>
+  <Project Name="proj_tfr" Path="proj_tfr/proj_tfr.project" Active="Yes"/>
+  <Project Name="proj_rslt" Path="proj_rslt/proj_rslt.project" Active="No"/>
+  <Project Name="proj_slgen" Path="proj_slgen/proj_slgen.project" Active="No"/>
+  <Project Name="proj_tfr" Path="proj_tfr/proj_tfr.project" Active="Yes"/>
+  <Project Name="proj_rslt" Path="proj_rslt/proj_rslt.project" Active="No"/>
+  <Project Name="proj_TFRcache" Path="proj_TFRcache/proj_TFRcache.project" Active="No"/>
+  <Project Name="proj_rslt" Path="proj_rslt/proj_rslt.project" Active="No"/>
+  <Project Name="proj_TFRcache" Path="proj_TFRcache/proj_TFRcache.project" Active="No"/>
+  <Project Name="proj_RSLTcache" Path="proj_RSLTcache/proj_RSLTcache.project" Active="No"/>
+  <Project Name="proj_TFRbuf" Path="proj_TFRbuf/proj_TFRbuf.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="seQSim_v2" ConfigName="Debug"/>
+      <Project Name="slgen" ConfigName="Debug"/>
+      <Project Name="proj_tfr" ConfigName="Debug"/>
+      <Project Name="proj_rslt" ConfigName="Debug"/>
+      <Project Name="proj_slgen" ConfigName="Debug"/>
+      <Project Name="proj_TFRcache" ConfigName="Debug"/>
+      <Project Name="proj_RSLTcache" ConfigName="Debug"/>
+      <Project Name="proj_TFRbuf" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="seQSim_v2" ConfigName="Release"/>
+      <Project Name="slgen" ConfigName="Debug"/>
+      <Project Name="proj_tfr" ConfigName="Debug"/>
+      <Project Name="proj_rslt" ConfigName="Debug"/>
+      <Project Name="proj_slgen" ConfigName="Debug"/>
+      <Project Name="proj_TFRcache" ConfigName="Release"/>
+      <Project Name="proj_RSLTcache" ConfigName="Release"/>
+      <Project Name="proj_TFRbuf" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,1 @@
+./Debug/main.cpp.o ./Debug/qnode.cpp.o ./Debug/qgroup.cpp.o ./Debug/q.cpp.o ./Debug/helps.cpp.o ./Debug/rslt.cpp.o ./Debug/tfr.cpp.o ./Debug/SecretKeeper.cpp.o ./Debug/sl.cpp.o ./Debug/globals.cpp.o
